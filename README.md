@@ -1,2 +1,0 @@
-# drlit-token
-test token
