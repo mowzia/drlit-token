@@ -1,0 +1,20 @@
+{
+  "name": "Dr. Lit Official Token List",
+  "logoURI": "https://copper-elegant-unicorn-833.mypinata.cloud/ipfs/bafkreie7yjnasejco2kq2r3b3opxn2k7q7vc4ez5uuqhurcps4sndvcetq",
+  "timestamp": "2025-01-01T00:00:00Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 4441,
+      "address": "0xe067F7A5CEda6fD84F56eFFFD99D7A24761A4eF0",
+      "name": "Dr. Lit",
+      "symbol": "DRLIT",
+      "decimals": 18,
+      "logoURI": "https://copper-elegant-unicorn-833.mypinata.cloud/ipfs/bafkreie7yjnasejco2kq2r3b3opxn2k7q7vc4ez5uuqhurcps4sndvcetq"
+    }
+  ]
+}
